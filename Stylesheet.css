@@ -1,18 +1,15 @@
 body{
-   color: green;
-   background-color: white;
-   font-style: Arial;
-    font-size: 22px;
-   }
-p{color: black;
-background-color: white;
+}  
+.malik{
+	background-image: url(https://images8.alphacoders.com/532/thumb-1920-532219.jpg);
+	background-size: 2000px 1000px;
+	background-color: black;
 }
-p.malik{
-text-shadow: -1px solid white;
+.ak{
+	margin-left:1100px;
 }
-p.malik1{
-border: 2px solid black;
+.länk{
+	  margin-bottom:1000px;
 }
-p.malik{
-text-align:  
-    
+.text{
+	color:red;
